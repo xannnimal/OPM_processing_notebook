@@ -1,6 +1,6 @@
 ##  Data Processing Tutorial for FieldLine OPM System
 ##### Made by Xan McPherson, 2026
-Here, we will go through the steps required to process OPM data with references to relevant MNE-Python tutorials
+Here, we will go through the steps required to process OPM data with references to relevant MNE-Python tutorials. you can find an example dataset [here](https://drive.google.com/drive/folders/1iZ8yLN1Q4t_B2dKQkn1GdatIVBVkIfsG) with a simple stimulus of a 1000 Hz tone repeating 200 times.
 
 #### The Steps:
 1. Load and inspect raw data
